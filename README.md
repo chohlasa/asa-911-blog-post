@@ -30,7 +30,7 @@ NYPD's CFS dataset includes a wealth of information:
 location information, including the precinct, borough, patrol borough, and the latitude/longitude where the call took place; 
 timestamp information, including the time and date of the underlying incident (e.g., in the event of a call from the public), as well as timestamps for when the call was added to the database, when an officer was dispatched, when they arrived at the scene, and when they closed out the call;
 and information on the type of call, including 
-the "radio code"—a 2–3 alphanumeric code that officers say on the radio to indicate what they're doing; 
+the "radio code"—a 2–3 character code that officers say on the radio to indicate what they're doing; 
 and a corresponding description for the radio code. These codes can be quite cryptic—e.g., "75M" means that officers are initiating patrol of a subway train—so we found a training guide for new officers that includes detailed descriptions of the codes, and [posted it](https://github.com/chohlasa/asa-911-blog-post/blob/main/docs/NYPD%20Police%20Student%20Guide%20(December%202020-February%202021).pdf) in our GitHub repository.
 
 ### Assessing deployment changes on the subway

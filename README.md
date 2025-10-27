@@ -2,7 +2,7 @@
 
 By [Alex Chohlas-Wood](alexchohlaswood.com) and [John Hall](https://x.com/jjhall_77)
 
-In January this year—in response to [widespread concerns](https://www.vitalcitynyc.org/articles/what-to-do-about-subway-safety-nyc-policy-recommendations) about safety on the New York City subway—the New York City Police Department (NYPD) [made a new promise](https://ny1.com/nyc/all-boroughs/news/2025/01/16/nypd-to-deploy-1-050-more-officers-into-subway-stations--hochul-says): the city would add hundreds of officers to patrol the city's subways, including two officers for each of the city's 150 late-night subway trains that run between 9pm and 5am.
+This January, in response to [widespread concerns](https://www.vitalcitynyc.org/articles/what-to-do-about-subway-safety-nyc-policy-recommendations) about safety on the New York City subway, the New York City Police Department (NYPD) [made a new promise](https://ny1.com/nyc/all-boroughs/news/2025/01/16/nypd-to-deploy-1-050-more-officers-into-subway-stations--hochul-says): the city would add hundreds of officers to patrol the city's subways, including two officers for each of the city's 150 late-night subway trains that run between 9pm and 5am.
 
 How can we know if the city kept its promise? 
 You might think that we'd need to file a public records request with the NYPD, e.g., to get data on every officer that worked a late-night shift in a transit precinct. 

@@ -30,12 +30,14 @@ NYPD's CFS dataset includes a wealth of information:
 location information, including the precinct, borough, patrol borough, and the latitude/longitude where the call took place; 
 timestamp information, including the time and date of the underlying incident (e.g., in the event of a call from the public), as well as timestamps for when the call was added to the database, when an officer was dispatched, when they arrived at the scene, and when they closed out the call;
 and information on the type of call, including 
-the "radio code"—a 2–3 character code that officers say on the radio to indicate what they're doing; 
-and a corresponding description for the radio code. These codes can be quite cryptic—e.g., "75M" means that officers are initiating patrol of a subway train—so we found a training guide for new officers that includes detailed descriptions of the codes, and [posted it](https://github.com/chohlasa/asa-911-blog-post/blob/main/docs/NYPD%20Police%20Student%20Guide%20(December%202020-February%202021).pdf) in our GitHub repository.
+the "radio code"—a 2–3 character code that officers say on the radio to indicate what they're doing, 
+as well as a corresponding description for the radio code. 
+Even with descriptions, these codes can be quite cryptic to an outside observer—so we found a training guide for new officers that includes detailed descriptions of the codes, and [posted it](https://github.com/chohlasa/asa-911-blog-post/blob/main/docs/NYPD%20Police%20Student%20Guide%20(December%202020-February%202021).pdf) on GitHub.
 
 ### Assessing deployment changes on the subway
 
 To understand whether the city really did add officers to patrol trains overnight, we examined the number of calls where officers checked in between 9pm and 5am with radio code "75M". 
+Calls with a "75M" radio code mean that the officer was initiating a patrol of a subway train.
 We compared the number of late-night "75M" check-ins before and after the policy announcement in January of 2025 (Figure 1).
 
 <img src="src/train_patrols.png"

@@ -37,7 +37,7 @@ Even with descriptions, these codes can be quite cryptic to an outside observer�
 ### Assessing deployment changes on the subway
 
 To gauge whether the city really did add officers to patrol trains overnight after January's announcement, we examined the number of calls where officers checked in between 9pm and 5am with radio code "75M". 
-Calls with a "75M" radio code mean that the officer was initiating a patrol of a subway train.
+Calls with a "75M" radio code mean that the officer told the dispatcher that they were initiating a patrol of a subway train.
 We compared the number of late-night "75M" check-ins before and after the policy announcement in January of 2025 (Figure 1).
 
 <img src="src/train_patrols.png"
@@ -45,7 +45,7 @@ data-fig-alt="A line graph showing the number of 75M late-night subway train pat
 **Figure 1.** *Number of 75M late-night subway train patrol check-ins, by month, from September 2019 through June 2025. The vertical dashed line indicates the city's announcement that they would ensure two police officers on every overnight train. The red horizontal line represents the average number of late-night subway train patrol check-ins per month from September 2019 through January 2025, and again from February 2025 through June 2025, with a 95% CI around the average monthly call volume in gray.*
 
 Between Feburary 2025 and June 2025, there were over 15,000 75M check-ins per month—more than twice as many 75M check-ins per month as the average from September 2019 through January 2025.
-This change is empirical evidence that—since January—there are more officers checking subway trains every night,
+This change shows that there are many more officers checking late-night subway trains this year compared to the last few years,
 suggesting the policy change was implemented as promised and
 bringing some degree of comfort to late-night subway riders.
 
